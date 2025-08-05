@@ -1,0 +1,18 @@
+{
+    "patterns": {
+        "product_keywords": [
+            "rice", "wheat", "sugar", "tomatoes", "apples", "bread", "milk", "eggs",
+            "oranges", "bananas", "flour", "potatoes", "coffee", "tea", "chicken",
+            "beef", "fish", "salt", "pepper", "oil", "butter", "cheese", "yogurt"
+        ],
+        "quantity_units": [
+            "kg", "kgs", "kilograms", "liter", "liters", "units", "g", "grams",
+            "ml", "milliliters", "dozen", "pounds", "lbs", "oz", "ounces", "bags",
+            "crates", "boxes", "cans", "bottles", "packs", "pieces"
+        ],
+        "price_currencies": [
+            "rupees", "rs", "dollars", "usd", "eur", "pounds", "£", "€", "$",
+            "inr", "aed", "qar", "qatar riyals", "riyals"
+        ]
+    }
+}
